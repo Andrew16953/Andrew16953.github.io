@@ -3,7 +3,10 @@ color:white;
 margin-right:10px;
 }
 .my_menu_link {
-color:white;
+color:rgb(256,256,256);
+}
+.my_menu_link_b {
+color:rgb(0,0,0);
 }
 .my_text_body {
 font-family:"Verdona";
@@ -23,4 +26,9 @@ z-index:1;
 }
 .dropdown:hover .dropdown-content {
 display:block;
+}
+.image0 {
+width:40%;
+height:40%;
+float:right;
 }
