@@ -25,7 +25,7 @@ font-family:"Verdona";
 
 }
 
-.dropdown {
+.drop_down {
 
 position:relative;
 
@@ -33,7 +33,7 @@ display:inline-block;
 
 }
 
-.dropdown-content {
+.drop_down-content {
 
 display:none;
 
@@ -51,7 +51,7 @@ z-index:1;
 
 }
 
-.dropdown:hover .dropdown-content {
+.drop_down:hover .drop_down-content {
 
 display:block;
 
